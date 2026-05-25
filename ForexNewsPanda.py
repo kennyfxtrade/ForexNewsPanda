@@ -32,3 +32,4 @@ fxx.to_csv('forexnews' + Date + '.csv')
 
 df = pd.read_csv('forexnews' + Date + '.csv')
 print(df)
+####2026KENNYLO#####
